@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Player Ranking Table</title>
+     <link rel="stylesheet" href="styles.css">
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simplebar/dist/simplebar.min.css">
+<script src="https://cdn.jsdelivr.net/npm/simplebar/dist/simplebar.min.js"></script>
+
+<style>
+    
+</style>
+
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="navbar-container">
+            <!-- Logo Section -->
+            <div class="navbar-logo">
+                <img src="https://media.discordapp.net/attachments/1317523070650548285/1322423801937399890/D_2.7-removebg-preview.png?ex=6797b6e3&is=67966563&hm=04507c2503a8e711626b94a029a57fd1c1df2cac0ba1c8e6e3aa9f025f3e34a7&=&format=webp&quality=lossless&width=705&height=705" alt="Logo" class="logo-img">
+                <span class="logo-text">Player Rankings</span>
+            </div>
+            <!-- Search Bar -->
+            <input
+                type="text"
+                id="search-bar"
+                placeholder="Search player..."
+                oninput="filterTable()"
+                class="search-bar"
+            />
+        </div>
+    </nav>
+    
+    
+
+    <div class="container">
+        <h1>Top All Player Ranking</h1>
+        <p class="subtitle">Updated: January 25, 2025</p>
+        <table id="player-table">
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Name</th>
+                    <th>Country</th>
+                    <th>Offer/Worth</th>
+                    <th>Up/Down</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <!-- Overlay -->
+    <div class="overlay" id="overlay" onclick="closePopup()"></div>
+
+    <!-- Pop-up -->
+    <div class="popup" id="popup">
+        <h2 id="player-name">Player Name</h2>
+        <div class="player-header">
+            <img id="player-avatar" src="" alt="Player Avatar" class="avatar">
+        </div>
+        <canvas id="player-chart"></canvas>
+        <div class="player-details">
+            <p><strong>Wins:</strong> <span id="player-wins">0</span></p>
+            <p><strong>Losses:</strong> <span id="player-losses">0</span></p>
+            <p><strong>Win Rate:</strong> <span id="player-winrate">0%</span></p>
+        </div>
+        <!-- <button onclick="closePopup()">Close</button> -->
+    </div>
+      <!-- ปุ่มมุมล่างซ้าย -->
+      <button class="qr-button" id="qrButton">+</button>
+
+      <!-- กล่องแสดง QR Code -->
+      <div class="qr-popup" id="qrPopup">
+          <h3 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Scan to Join Discord</h3>
+          <!-- <canvas id="qrCanvas"></canvas> -->
+          <img src="img/qrcode.png" style="width: 200px;"/>
+      </div>
+  
+      <!-- Overlay -->
+      <div class="overlay" id="overlay"></div>
+  
+      <!-- qrcode.js -->
+    
+
+      <script src="https://cdn.jsdelivr.net/npm/qrcode/build/qrcode.min.js"></script>
+      <script>
+          const qrButton = document.getElementById('qrButton');
+          const qrPopup = document.getElementById('qrPopup');
+          const overlay = document.getElementById('overlay');
+          const qrCanvas = document.getElementById('qrCanvas');
+  
+          // Discord Invite Link
+          const discordInviteLink = "https://discord.com/invite/your-invite-code";
+  
+          // เมื่อกดปุ่มให้แสดง QR Code
+          qrButton.addEventListener('click', () => {
+              if (!qrPopup.classList.contains('active')) {
+                  QRCode.toCanvas(qrCanvas, discordInviteLink, { width: 200 }, (error) => {
+                      if (error) console.error(error);
+                  });
+                  qrPopup.classList.add('active');
+                  overlay.classList.add('active');
+              }
+          });
+  
+          // คลิกที่ overlay เพื่อปิด QR Code
+          overlay.addEventListener('click', () => {
+              qrPopup.classList.remove('active');
+              overlay.classList.remove('active');
+          });
+      </script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="scripts.js"></script>
+</body>
+</body>
+</html>

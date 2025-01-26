@@ -1,0 +1,210 @@
+{
+    "players": [
+        {
+            "rank": 1,
+            "name": "Owen Wyatt",
+            "country": "UK",
+            "country_flags": [
+              "https://flagcdn.com/w320/gb.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 2,
+            "name": "Windy Jin",
+            "country": "UK",
+            "country_flags": [
+              "https://flagcdn.com/w320/gb.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 3,
+            "name": "Fix Rogers",
+            "country": "US",
+            "country_flags": [
+              "https://flagcdn.com/w320/us.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 4,
+            "name": "Beer Wraith",
+            "country": "IN/TH",
+            "country_flags": [
+              "https://flagcdn.com/w320/in.png",
+              "https://flagcdn.com/w320/th.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 5,
+            "name": "ODD Donom",
+            "country": "TH",
+            "country_flags": [
+              "https://flagcdn.com/w320/th.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 6,
+            "name": "Alan Mathilda",
+            "country": "SC",
+            "country_flags": [
+              "https://flagcdn.com/w320/gb-sct.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 7,
+            "name": "Yak jigoro",
+            "country": "DE/CO",
+            "country_flags": [
+              "https://flagcdn.com/w320/de.png",
+              "https://flagcdn.com/w320/co.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 8,
+            "name": "Kou Fidden",
+            "country": "EN/JP",
+            "country_flags": [
+              "https://flagcdn.com/w320/gb.png",
+              "https://flagcdn.com/w320/jp.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 9,
+            "name": "Joji Daruma",
+            "country": "TH/JP",
+            "country_flags": [
+              "https://flagcdn.com/w320/th.png",
+              "https://flagcdn.com/w320/jp.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 10,
+            "name": "JEK saamcha",
+            "country": "TH/JP/CN",
+            "country_flags": [
+              "https://flagcdn.com/w320/th.png",
+              "https://flagcdn.com/w320/jp.png",
+              "https://flagcdn.com/w320/cn.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 11,
+            "name": "Seiya Kira",
+            "country": "DE/PS",
+            "country_flags": [
+              "https://flagcdn.com/w320/de.png",
+              "https://flagcdn.com/w320/ps.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 12,
+            "name": "Walk Gastrell",
+            "country": "EN/CN",
+            "country_flags": [
+              "https://flagcdn.com/w320/gb.png",
+              "https://flagcdn.com/w320/cn.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 13,
+            "name": "Nun Gastrell",
+            "country": "EN/TH",
+            "country_flags": [
+              "https://flagcdn.com/w320/gb.png",
+              "https://flagcdn.com/w320/th.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 14,
+            "name": "Spaghetti Rothschild",
+            "country": "IT/TH",
+            "country_flags": [
+              "https://flagcdn.com/w320/it.png",
+              "https://flagcdn.com/w320/th.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        }
+    ]
+}
