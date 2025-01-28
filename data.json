@@ -235,6 +235,35 @@
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
             "lose": 0
+        },
+        {
+            "rank": 17,
+            "name": "Celenstino Cortez",
+            "country": "SP",
+            "country_flags": [
+              "https://flagcdn.com/w320/sp.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 18,
+            "name": "John ZAha",
+            "country": "US/TH",
+            "country_flags": [
+              "https://flagcdn.com/w320/us.png",
+              "https://flagcdn.com/w320/th.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
         }
     ]
 }
