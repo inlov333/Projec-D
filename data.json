@@ -205,6 +205,36 @@
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
             "lose": 0
+        },
+        {
+            "rank": 15,
+            "name": "Gento Ryuuto",
+            "country": "TH/JP",
+            "country_flags": [
+              "https://flagcdn.com/w320/th.png",
+              "https://flagcdn.com/w320/jp.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
+        },
+        {
+            "rank": 16,
+            "name": "Mike Shusaku",
+            "country": "US/JP",
+            "country_flags": [
+              "https://flagcdn.com/w320/us.png",
+              "https://flagcdn.com/w320/jp.png"
+            ],
+            "worth": "¥ 100,000",
+            "change": "0",
+            "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "stats": [20, 20, 20, 20, 20],
+            "win": 0,
+            "lose": 0
         }
     ]
 }
