@@ -8,10 +8,10 @@
               "https://flagcdn.com/w320/gb.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "+10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
             "stats": [20, 20, 20, 20, 20],
-            "win": 0,
+            "win": 1,
             "lose": 0
         },
         {
@@ -22,7 +22,7 @@
               "https://flagcdn.com/w320/gb.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "-20000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
@@ -36,11 +36,11 @@
               "https://flagcdn.com/w320/us.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "-10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
-            "lose": 0
+            "lose": 1
         },
         {
             "rank": 4,
@@ -51,10 +51,10 @@
               "https://flagcdn.com/w320/th.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "+10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
-            "win": 0,
+            "win": 1,
             "lose": 0
         },
         {
@@ -65,10 +65,10 @@
               "https://flagcdn.com/w320/th.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "+10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
-            "win": 0,
+            "win": 1,
             "lose": 0
         },
         {
@@ -79,10 +79,10 @@
               "https://flagcdn.com/w320/gb-sct.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "+10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
-            "win": 0,
+            "win": 1,
             "lose": 0
         },
         {
@@ -94,11 +94,11 @@
               "https://flagcdn.com/w320/co.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "-10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
-            "lose": 0
+            "lose": 1
         },
         {
             "rank": 8,
@@ -109,7 +109,7 @@
               "https://flagcdn.com/w320/jp.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "-20000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
@@ -124,10 +124,10 @@
               "https://flagcdn.com/w320/jp.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "+10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
-            "win": 0,
+            "win": 1,
             "lose": 0
         },
         {
@@ -140,10 +140,10 @@
               "https://flagcdn.com/w320/cn.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "+10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
-            "win": 0,
+            "win": 1,
             "lose": 0
         },
         {
@@ -155,10 +155,10 @@
               "https://flagcdn.com/w320/ps.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "+10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
-            "win": 0,
+            "win": 1,
             "lose": 0
         },
         {
@@ -170,11 +170,11 @@
               "https://flagcdn.com/w320/cn.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "-15000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
-            "lose": 0
+            "lose": 1
         },
         {
             "rank": 13,
@@ -185,11 +185,11 @@
               "https://flagcdn.com/w320/th.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "-15000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
-            "lose": 0
+            "lose": 1
         },
         {
             "rank": 14,
@@ -200,11 +200,11 @@
               "https://flagcdn.com/w320/th.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "-25000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
-            "lose": 0
+            "lose": 1
         },
         {
             "rank": 15,
@@ -215,10 +215,10 @@
               "https://flagcdn.com/w320/jp.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "+10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
-            "win": 0,
+            "win": 1,
             "lose": 0
         },
         {
@@ -230,11 +230,11 @@
               "https://flagcdn.com/w320/jp.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "-10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
-            "lose": 0
+            "lose": 1
         },
         {
             "rank": 17,
@@ -244,11 +244,11 @@
               "https://flagcdn.com/w320/es.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "-10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
-            "lose": 0
+            "lose": 1
         },
         {
             "rank": 18,
@@ -259,11 +259,11 @@
               "https://flagcdn.com/w320/th.png"
             ],
             "worth": "¥ 100,000",
-            "change": "0",
+            "change": "-10000",
             "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
             "stats": [20, 20, 20, 20, 20],
             "win": 0,
-            "lose": 0
+            "lose": 1
         }
     ]
 }
