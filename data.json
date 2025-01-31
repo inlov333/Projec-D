@@ -127,8 +127,8 @@
           "change": "+25000",
           "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
           "stats": [20, 20, 20, 20, 20],
-          "win": 2,
-          "lose": 2
+          "win": 3,
+          "lose": 1
       },
       {
           "rank": 10,
