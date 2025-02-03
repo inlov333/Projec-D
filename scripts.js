@@ -106,7 +106,7 @@ function showPopup(playerName) {
     window.playerChart = new Chart(ctx, {
         type: 'radar',
         data: {
-            labels: ['Skill A', 'Skill B', 'Skill C', 'Skill D', 'Skill E'],
+            labels: ['TOUGE', 'STREET', 'RALLY', 'CIRCUIT', 'PRIVATE'],
             datasets: [{
                 label: playerName,
                 data: player.stats,
